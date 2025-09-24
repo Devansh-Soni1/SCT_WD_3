@@ -32,9 +32,13 @@ I built an interactive **Tic-Tac-Toe game** with **Player vs Computer (AI)** and
 ## 📂 Project Structure
 
 ├── index.html # Main HTML file
+
 ├── script.js # Game logic & AI
+
 ├── output.css # Tailwind compiled CSS
+
 ├── t-logo.png # Favicon/logo
+
 └── README.md
 
 ---
@@ -54,7 +58,7 @@ I built an interactive **Tic-Tac-Toe game** with **Player vs Computer (AI)** and
 ## 📸 Screenshots
 
 <img src="./src/ss.png"> 
-
+Live previwe: https://devansh-soni1.github.io/SCT_WD_3/src/ 
 ---
 
 ## 🎯 Learning Outcomes
@@ -72,4 +76,4 @@ This project was developed during my **Web Development Internship** at **SkillCr
 I’m exploring real-world tasks to improve my **frontend development & problem-solving skills**.
 
 - GitHub: [Devansh-Soni1](https://github.com/Devansh-Soni1)  
-- LinkedIn: [Devansh Soni](https://www.linkedin.com/in/devansh-soni-/)  
+- LinkedIn: [Devansh-Soni1](https://www.linkedin.com/in/devansh-soni1/)  

@@ -58,7 +58,7 @@ I built an interactive **Tic-Tac-Toe game** with **Player vs Computer (AI)** and
 ## 📸 Screenshots
 
 <img src="./src/ss.png"> 
-Live previwe: https://devansh-soni1.github.io/SCT_WD_3/src/ 
+Live preview: https://devansh-soni1.github.io/SCT_WD_3/src/ 
 ---
 
 ## 🎯 Learning Outcomes

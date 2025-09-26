@@ -51,7 +51,7 @@ The game features a modern glassmorphism design, difficulty levels, game stats, 
 ---
 
 ## 🔗 Live Demo
-[GitHub Live Preview](https://devansh-soni1.github.io/SCT_WD_3/src/)
+[GitHub Live Preview](https://devansh-soni1.github.io/Tic-Tac-Toe/src/)
 
 ---
 

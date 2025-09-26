@@ -1,79 +1,60 @@
-# 🎮 Tic-Tac-Toe Game (Task 3)
+# 🎮 Tic-Tac-Toe Game
 
-This is my **3rd project** of the **Web Development Internship** at **SkillCraft Technology**.  
-I built an interactive **Tic-Tac-Toe game** with **Player vs Computer (AI)** and **Player vs Player** modes.
+An advanced **Tic-Tac-Toe web app** with **PvP (Player vs Player)** and **PvC (Player vs Computer)** modes.  
+The game features a modern glassmorphism design, difficulty levels, game stats, and history tracking.
 
 ---
 
 ## 🚀 Features
-
-- ✅ Player vs Computer (AI)  
-  - Easy → Random moves  
-  - Medium → Mix of random + smart moves  
-  - Hard → **Unbeatable Minimax algorithm**  
-- ✅ Player vs Player (PvP) toggle  
-- ✅ Custom player name input  
-- ✅ Game stats (Wins / Draws / Losses)  
-- ✅ Recent game history with timestamps  
-- ✅ Responsive UI with **TailwindCSS + Glassmorphism**  
-- ✅ Keyboard support → use `1–9` keys for moves  
-- ✅ Restart & replay option  
+- 👥 **Two modes**:
+  - Player vs Player (PvP)
+  - Player vs Computer (AI with Minimax algorithm)
+- 🧠 **3 Difficulty Levels**:
+  - Easy → random moves
+  - Medium → mix of random & smart
+  - Hard → unbeatable (Minimax)
+- 📝 Enter custom player names (PvP mode)
+- 📊 Live game statistics (Wins / Losses / Draws)
+- 🕑 Match history log with timestamps
+- ⚡ Responsive UI with **TailwindCSS** & glass effect
+- ⌨️ Keyboard support → Use number keys (1–9) as moves
+- 🔄 Restart anytime
 
 ---
 
 ## 🛠️ Tech Stack
-
-- **HTML5**  
-- **CSS3 (TailwindCSS + custom styles)**  
-- **JavaScript (Vanilla, ES6+)**  
+- **HTML5**
+- **Tailwind CSS**
+- **JavaScript (Vanilla JS)** with Minimax AI
 
 ---
 
 ## 📂 Project Structure
-
-├── index.html # Main HTML file
-
-├── script.js # Game logic & AI
-
-├── output.css # Tailwind compiled CSS
-
-├── t-logo.png # Favicon/logo
-
-└── README.md
-
----
-
-## 🎮 How to Play
-
-1. Open `index.html` in your browser.  
-2. Choose game mode:  
-   - **Computer** → play against AI  
-   - **PvP** → play against a friend  
-3. Pick your symbol **X or O**.  
-4. Start playing! 🎉  
-5. Check your stats and history in the right panel.  
+- `index.html` → Game layout
+- `output.css` → Tailwind styles
+- `script.js` → Game logic & AI
 
 ---
 
 ## 📸 Screenshots
-
-<img src="./src/ss.png"> 
-Live preview: https://devansh-soni1.github.io/SCT_WD_3/src/ 
----
-
-## 🎯 Learning Outcomes
-
-- Learned how to implement **Minimax Algorithm** in JavaScript  
-- Practiced building **responsive layouts with TailwindCSS**  
-- Improved **DOM manipulation & event handling**  
-- Created a **fun, interactive web app**  
+<img src="./src/ss.png">
 
 ---
 
-## 👤 About Me  
+## 🎯 How to Play
+1. Choose **X** or **O**.  
+2. Select **PvP** (two players) or **Computer** (AI).  
+3. If Computer mode, select **difficulty level**.  
+4. Play by clicking on the board or pressing **1–9 keys**.  
+5. Try to beat the AI in hard mode 🔥.
 
-This project was developed during my **Web Development Internship** at **SkillCraft Technology**.  
-I’m exploring real-world tasks to improve my **frontend development & problem-solving skills**.
+---
 
+## 🔗 Live Demo
+[GitHub Live Preview](https://devansh-soni1.github.io/SCT_WD_3/src/)
+
+---
+
+## 📬 Connect With Me
 - GitHub: [Devansh-Soni1](https://github.com/Devansh-Soni1)  
-- LinkedIn: [Devansh-Soni1](https://www.linkedin.com/in/devansh-soni1/)  
+- LinkedIn: [Devansh Soni](https://www.linkedin.com/in/Devansh-soni1/)  
